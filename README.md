@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongHyeon0000&show_icons=true&theme=radical)
 
-![111](111.png)
-![222](222.png)
+![111](/111.png)
+![222](/222.png)
 
 -----------------------------------------------------
 
