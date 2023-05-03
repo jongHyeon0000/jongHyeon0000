@@ -35,9 +35,12 @@
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/React.js-61DAFB?&logo=reactquery&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?&logo=thymeleaf&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/jquery-0769AD?&logo=jquery&logoColor=white&style=for-the-badge"/></a>
 
 ## Frameworks
 
+<img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?&logo=springboot&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/JUnit-25A162?&logo=junit5&logoColor=white&style=for-the-badge"/></a>
