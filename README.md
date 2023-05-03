@@ -5,6 +5,7 @@
 # Stack
 
 <img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus&logoColor=white"/></a>
 
 ------------------------------------------------------
 
