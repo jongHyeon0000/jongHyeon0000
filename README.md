@@ -1,4 +1,10 @@
+caption { 
+    caption-side: bottom;
+    text-align: right;
+}
+
 <table>
+  <caption>😝</caption>
   <tr>
     <td><img src="/111.jpg" width = "400" /></td>
     <td><img src="/333.jpg" width = "400" /></td>
