@@ -16,6 +16,10 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/React.js-61DAFB?&logo=reactquery&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/JUnit-25A162?&logo=junit5&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white&style=for-the-badge"/></a>
+
 ------------------------------------------------------
 
 <a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?&logo=velog&logoColor=white"/></a>
