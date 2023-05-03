@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img alt="" src="/111.jpg" width = "300" /></td><td><img alt="" src="/222.jpg" width = "300" /></td>
+    <td><img alt="" src="/111.jpg" width = "400" /></td><td><img alt="" src="/222.jpg" width = "400" /></td>
   <tr>
 </table>
 
@@ -36,7 +36,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/MariaDB-003545?&logo=mariadb&logoColor=white&style=for-the-badge"/></a>
 
-# Blog
+## Blog
 
 <a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?&logo=velog&logoColor=white"/></a>
 
