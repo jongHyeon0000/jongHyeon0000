@@ -4,8 +4,10 @@
 
 # Stack
 
-<img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus"/></a>
-<img src="https://img.shields.io/badge/JS-F7DF1E?&logo=javascript"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus&logocolor=white"/></a>
+<img src="https://img.shields.io/badge/Java-#2F2625?&logo=coffeescript&logocolor=white"/></a>
+<img src="https://img.shields.io/badge/JS-F7DF1E?&logo=javascript&logocolor=white"/></a>
+
 
 ------------------------------------------------------
 
