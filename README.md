@@ -8,6 +8,7 @@
 
 ## Languages
 
+<img src="https://img.shields.io/badge/C-A8B9CC?&logo=c&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus&style=for-the-badge&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-2F2625?&logo=coffeescript&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/JS-F7DF1E?&logo=javascript&logoColor=white&style=for-the-badge"/></a>
