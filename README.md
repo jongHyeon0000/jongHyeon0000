@@ -2,8 +2,6 @@
   <tr>
     <td><img src="/111.jpg" width = "400" /></td>
     <td><img src="/222.jpg" width = "400" /></td>
-  </tr>
-  <tr>
     <td><img src="/333.jpg" width = "400" /></td>
     <td><img src="/444.jpg" width = "400" /></td>
   </tr>
