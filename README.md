@@ -67,9 +67,11 @@
 <img src="https://img.shields.io/badge/microsoft sql server-CC2927?&logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Maria DB-003545?&logo=mariadb&logoColor=white&style=for-the-badge"/></a>
 
-## Blog
+## TechBlog
 
-<a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/TechBlog-20C997?&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white"/></a>
+
+<a href="https://jonghyeon0829.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?&logo=velog&logoColor=white"/></a>
 
 ------------------------------------------------------
 
