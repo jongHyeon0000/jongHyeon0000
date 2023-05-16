@@ -43,13 +43,12 @@
 
 <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?&logo=figma&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Source Tree-0052CC?&logoColor=white&style=for-the-badge"/></a>
 
 ## Librares
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?&logo=bootstrap&logoColor=white&style=for-the-badge"/></a>
+<img src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/React.js-61DAFB?&logo=reactquery&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?&logo=thymeleaf&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/jquery-0769AD?&logo=jquery&logoColor=white&style=for-the-badge"/></a>
@@ -61,6 +60,10 @@
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/JUnit-25A162?&logo=junit5&logoColor=white&style=for-the-badge"/></a>
 
+## Server
+
+<img src="https://img.shields.io/badge/Apache-D22128?&logo=apache&logoColor=white&style=for-the-badge"/></a>
+
 ## Databases
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white&style=for-the-badge"/></a>
@@ -68,8 +71,6 @@
 <img src="https://img.shields.io/badge/Maria DB-003545?&logo=mariadb&logoColor=white&style=for-the-badge"/></a>
 
 ## TechBlog
-
-<a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?&logo=velog&logoColor=white"/></a>
 
 <a href="https://jonghyeon0829.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?&logo=velog&logoColor=white"/></a>
 
