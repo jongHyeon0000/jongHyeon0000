@@ -35,10 +35,6 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&logo=visualstudio&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge"/></a>
 
-## API
-
-<img src="https://img.shields.io/badge/DirectX9-2C3E50?&logo=xstate&logoColor=white&style=for-the-badge"/></a>
-
 ## Tools
 
 <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge"/></a>
@@ -50,7 +46,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/React.js-61DAFB?&logo=reactquery&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?&logo=thymeleaf&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/jquery-0769AD?&logo=jquery&logoColor=white&style=for-the-badge"/></a>
 
 ## Frameworks
 
