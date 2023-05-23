@@ -65,7 +65,7 @@
 
 ## TechBlog
 
-<a href="https://jonghyeon0829.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?&logo=velog&logoColor=white"/></a>
+<a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?&logo=velog&logoColor=white"/></a>
 
 ------------------------------------------------------
 
