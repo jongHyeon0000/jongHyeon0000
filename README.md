@@ -31,7 +31,6 @@
 ## IDE
 
 <img src="https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipseide&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Notepad++-90E59A?&logo=notepadplusplus&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?&logo=visualstudio&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge"/></a>
 
