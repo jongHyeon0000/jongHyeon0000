@@ -28,12 +28,6 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white&style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white&style=for-the-badge"/></a>
 
-## IDE
-
-<img src="https://img.shields.io/badge/Eclipse-2C2255?&logo=eclipseide&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?&logo=visualstudio&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?&logo=visualstudiocode&logoColor=white&style=for-the-badge"/></a>
-
 ## Tools
 
 <img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge"/></a>
