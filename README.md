@@ -1,66 +1,73 @@
-<table>
-  <tr>
-    <td><img src="/111.jpg" width = "300" /></td>
-    <td><img src="/222.jpg" width = "300" /></td>
-  </tr>
-  <tr>
-    <td><img src="/333.jpg" width = "300" /></td>
-    <td><img src="/444.jpg" width = "300" /></td>
-  </tr>
-  <!-- <tr>
-    <td><img src="/555.jpg" width = "400" /></td>
-    <td><img src="/666.jpg" width = "400" /></td>
-  </tr> -->
-  <tr>
-    <td><img src="/777.jpg" width = "300" /></td>
-    <td><img src="/888.png" width = "300" /></td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td><img src="/111.jpg" width = "300" /></td>
+      <td><img src="/222.jpg" width = "300" /></td>
+    </tr>
+    <tr>
+      <td><img src="/333.jpg" width = "300" /></td>
+      <td><img src="/444.jpg" width = "300" /></td>
+    </tr>
+    <!-- <tr>
+      <td><img src="/555.jpg" width = "400" /></td>
+      <td><img src="/666.jpg" width = "400" /></td>
+    </tr> -->
+    <tr>
+      <td><img src="/777.jpg" width = "300" /></td>
+      <td><img src="/888.png" width = "300" /></td>
+    </tr>
+  </table>
 
------------------------------------------------------
+  -----------------------------------------------------
 
-## Languages
+  ## LANGUAGES
 
-<img src="https://img.shields.io/badge/C-A8B9CC?&logo=c&style=for-the-badge&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?&logo=cplusplus&style=for-the-badge&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-2F2625?&logo=coffeescript&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/JS-F7DF1E?&logo=javascript&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/HTML-E34F26?&logo=html5&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/CSS-1572B6?&logo=css3&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/C-A8B9CC?&logo=c&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?&logo=cplusplus&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?&logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?&logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?&logo=postgresql&logoColor=white&style=for-the-badge"/>
 
-## Tools
+  ## TOOLS
 
-<img src="https://img.shields.io/badge/Gradle-02303A?&logo=gradle&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?&logo=github&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Docker-2496ED?&logo=docker&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/GRADLE-02303A?&logo=gradle&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MAVEN-C71A36?&logo=apachemaven&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?&logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VITE-646CFF?&logo=vite&logoColor=white&style=for-the-badge"/>
 
-## Librares
+  ## LIBRARIES
 
-<img src="https://img.shields.io/badge/Node.js-339933?&logo=nodedotjs&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/React.js-61DAFB?&logo=reactquery&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/thymeleaf-005F0F?&logo=thymeleaf&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?&logo=nodedotjs&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REACT.JS-61DAFB?&logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/THYMELEAF-005F0F?&logo=thymeleaf&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JQUERY-0769AD?&logo=jquery&logoColor=white&style=for-the-badge"/>
 
-## Frameworks
+  ## FRAMEWORKS
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?&logo=springboot&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?&logo=springsecurity&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/JUnit-25A162?&logo=junit5&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/SPRING-6DB33F?&logo=spring&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?&logo=springboot&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SPRING SECURITY-6DB33F?&logo=springsecurity&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JUNIT-25A162?&logo=junit5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSP-2F2625?&logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?&logo=nextdotjs&logoColor=white&style=for-the-badge"/>
 
-## Server
+  ## SERVER
 
-<img src="https://img.shields.io/badge/Apache-D22128?&logo=apache&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/TOMCAT-F8DC75?&logo=apachetomcat&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APACHE-D22128?&logo=apache&logoColor=white&style=for-the-badge"/>
 
-## Databases
+  ## DATABASE
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/microsoft sql server-CC2927?&logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/></a>
-<img src="https://img.shields.io/badge/Maria DB-003545?&logo=mariadb&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?&logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MARIA DB-003545?&logo=mariadb&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-CC2927?&logo=microsoftsqlserver&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?&logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ORACLE-F80000?&logo=oracle&logoColor=white&style=for-the-badge"/>
 
-## TechBlog
+  ## TechBlog
 
-<a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/Tistory-20C997?&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@tamxt4047" target="_blank"><img src="https://img.shields.io/badge/TISTORY-20C997?&logo=velog&logoColor=white"/></a>
 
-------------------------------------------------------
+  ------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongHyeon0000&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongHyeon0000&show_icons=true&theme=radical)
