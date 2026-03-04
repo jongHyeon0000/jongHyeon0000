@@ -24,8 +24,8 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?&logo=c&style=for-the-badge&logoColor=white"/> &nbsp; <img 
   src="https://img.shields.io/badge/C%2B%2B-00599C?&logo=cplusplus&style=for-the-badge&logoColor=white"/> &nbsp; <img 
   src="https://img.shields.io/badge/JAVA-ED8B00?&logo=openjdk&logoColor=white&style=for-the-badge"/> &nbsp; <img 
-  src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge"/> &nbsp; <img 
-  src="https://img.shields.io/badge/TYPESCRIPT-3178C6?&logo=typescript&logoColor=white&style=for-the-badge"/> &nbsp; <img 
+  src="https://img.shields.io/badge/JAVA_SCRIPT-F7DF1E?&logo=javascript&logoColor=black&style=for-the-badge"/> &nbsp; <img 
+  src="https://img.shields.io/badge/TYPE_SCRIPT-3178C6?&logo=typescript&logoColor=white&style=for-the-badge"/> &nbsp; <img 
   src="https://img.shields.io/badge/SQL-336791?&logo=postgresql&logoColor=white&style=for-the-badge"/>
 
   ## TOOLS
